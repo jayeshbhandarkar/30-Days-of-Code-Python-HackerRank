@@ -13,4 +13,4 @@ The 30 Days of Code challenge is designed to teach coding concepts through daily
 - Arrays , Dictionaries
 - Recursion, and more!
 
-Happy Coding! 😊
+<center>Happy Coding! 😊</center>
